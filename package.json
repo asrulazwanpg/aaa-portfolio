@@ -1,0 +1,18 @@
+{
+  "name": "aaa-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for me",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asrul Azwan Ashari",
+  "license": "",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
